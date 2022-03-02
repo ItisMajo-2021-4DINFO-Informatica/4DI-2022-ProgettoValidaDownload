@@ -1,4 +1,4 @@
-Progetto 4DI 2022 - Traccia
+# Progetto 4DI 2022 - Traccia
 
 Progetta e realizza una applicazione per desktop windows (WPF) che consenta ad un utente di validare l’integrità e l'autenticità un file scaricato dal web utilizzando il metodo del checksum SHA256 e della firma digitale PGP. 
 
