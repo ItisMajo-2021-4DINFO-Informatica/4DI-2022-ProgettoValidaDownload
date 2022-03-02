@@ -11,11 +11,11 @@ L’applicazione deve presentare le seguenti funzionalità:
 In aggiunta, si potranno proporre funzionalità avanzate per rendere più agevoli le funzioni di base.
 
 Dal punto di vista del codice nel progetto si dovrà applicare la teoria studiata, ovvero:
-classi e oggetti, nei quali definire proprietà e metodi opportuni; sforzandosi di applicare l’incapsulamento
-associazioni tra classi e/o ereditarietà, eventualmente sfruttando override ed overload dei metodi
-utilizzo di strutture dati dinamiche: liste, code, pile
-manipolazione di files in formati vari
-gestione delle eccezioni
+- classi e oggetti, nei quali definire proprietà e metodi opportuni; sforzandosi di applicare l’incapsulamento
+- associazioni tra classi e/o ereditarietà, eventualmente sfruttando override ed overload dei metodi
+- utilizzo di strutture dati dinamiche: liste, code, pile
+- manipolazione di files in formati vari
+- gestione delle eccezioni
 
 Il lavoro deve essere svolto in collaborazione di gruppo ed il supporto di consegna  sarà GitHub.
 
